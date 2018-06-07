@@ -27,9 +27,11 @@ To run locally, clone down the repo and follow these steps:
 3. start the server with 'npm start' 
 4. visit http://localhost:3000/.
 
+## Screenshot
+![Demo](https://github.com/ArtKing777/find-matching/blob/master/screen.PNG)
 
 ## Architecture
-##### Database Schema
+##### PostgreSQL Database Schema
 ![PostgreSQL database](http://imgur.com/u1jYgAh.png)
 
 
